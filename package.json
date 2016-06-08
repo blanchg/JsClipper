@@ -1,14 +1,14 @@
 {
-  "name": "js-clipper",
-  "version": "1.0.0",
-  "description": "common.js compatible version of JSClipper",
+  "name": "js-clipper6",
+  "version": "6.1.3",
+  "description": "common.js compatible version of JSClipper 6.1.3.2",
   "main": "clipper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mathisonian/JsClipper.git"
+    "url": "https://github.com/blanchg/JsClipper.git"
   },
   "keywords": [
     "JsClipper",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "boost",
   "bugs": {
-    "url": "https://github.com/mathisonian/JsClipper/issues"
+    "url": "https://github.com/blanchg/JsClipper/issues"
   },
-  "homepage": "https://github.com/mathisonian/JsClipper"
+  "homepage": "https://github.com/blanchg/JsClipper"
 }
